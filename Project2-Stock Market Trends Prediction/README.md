@@ -1,4 +1,4 @@
-# Spell Correction
+# Stock Market Trends Prediction
 This project is the Homework2 of [DATA130006](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/index.html)
 
 ## Introduction
