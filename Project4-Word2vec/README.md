@@ -1,5 +1,7 @@
 # Spell Correction
+
 This project is the Homework4 of [DATA130006](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/index.html)
+
 Students need to finish the coding part and the Assignment4
 
 ## Introduction for coding part
