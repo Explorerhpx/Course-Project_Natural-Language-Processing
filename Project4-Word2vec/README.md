@@ -1,4 +1,4 @@
-# Spell Correction
+# Word2vce
 
 This project is the Homework4 of [DATA130006](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/index.html)
 
