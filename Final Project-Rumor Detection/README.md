@@ -1,1 +1,1 @@
-# Final Project:Rumor Detection
+# Final Project: Rumor Detection
