@@ -9,7 +9,9 @@ This project is the Homework3 of [DATA130006](http://www.sdspeople.fudan.edu.cn/
 * This task is separated as two subtasks:
     * Trigger labeling: identify the trigger word in the sentence, and classify it to 8 types
     * Argument	labeling: identify all the arguments in the sentence, and classify them to 35 types
-* The Dataset comes from the *financial news*, which is available at the course [website](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/index.html)
+* Students are required to use both HMM and CRF models for this task.
+* You can use any toolkit (but not python package) for their implementation
+* The Dataset is available at the course [website](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/index.html)
 * All codes related to HMM need to be implemented by student him/herself without reffering to any other package or existing codes
 
 ## Remork
