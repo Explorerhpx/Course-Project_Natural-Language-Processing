@@ -12,5 +12,8 @@ This Project is the Final Project of [DATA130006](http://www.sdspeople.fudan.edu
 * Some related papers are provided as reference (you can obtain them at the *References* part). Students can either choose one of them to implement;
 * Two datasets from Weibo and Twitter can be found at [here](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/final-project/index.html)
 
+### Our work
+
 
 ## References
+\[1\]
