@@ -9,7 +9,7 @@ This Project is the Final Project of [DATA130006](http://www.sdspeople.fudan.edu
 ## Introduction
 ### Requirement
 * This project aims to determine if a post is rumor or not given its original content and all the comments and reposts generated;
-* Some related papers are provided as reference (you can obtain at the [*References*](References) part). Students
+* Some related papers are provided as reference (you can obtain at the [*References*](## References) part). Students
 
 
 ## References
