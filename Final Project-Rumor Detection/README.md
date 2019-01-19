@@ -15,5 +15,16 @@ This Project is the Final Project of [DATA130006](http://www.sdspeople.fudan.edu
 ### Our work
 
 
+
 ## References
-\[1\]
+### References provided by professor
+\[1\] Wei Gao Kam-Fai Wong Jing Ma. 2017. Detect rumors in microblog posts using propagation structure via kernel learning. ACL pages 708–717
+
+\[2\] Wei Gao Prasenjit Mitra Sejeong Kwon Bernard J. Jansen Kam-Fai Wong Meeyoung Cha. Wu S. Yang Jing Ma and K. Q. Zhu. 2016. Detecting rumors from microblogs with recurrent neural networks. IJCAI pages 3818–3824
+
+\[3\] Wei Gao Zhongyu Wei Yueming Lu Jing Ma and KamFai Wong. 2015. Detect rumors using time series of social context information on microblogging websites. CIKM
+
+### Additional references
+\[1\] M. Mendoza C. Castillo and B. Poblete. 2011. Information credibility on twitter. In Proceedings of WWW page 675-684
+
+\[2\] S. Yang K. Wu and K. Q. Zhu. 2015. False rumors detection on sina weibo by propagation structures. In Proceedings of ICDE page 675-684
