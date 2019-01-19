@@ -14,10 +14,11 @@ This Project is the Final Project of [DATA130006](http://www.sdspeople.fudan.edu
 
 ### Our work
 Based on all the 3 papers provided by professor, we implement not one but all the 3 alternative models:
-* Dynamic SeriesTime Structure (DSTS)/SVM/LR
-* LSTM/Bi-LSTM model
-* Propagation Tree Kernel (PTK) model.
+* **Dynamic SeriesTime Structure (DSTS)/SVM/LR**
+* **LSTM/Bi-LSTM model**
+* **Propagation Tree Kernel (PTK) model.**
 
+Please check *Report* for the detail information about the model and our experiment. By the way, we also provide the code to crawl Twitter Data from the internet.
 
 ## <span id="reference"> References </span>
 ### References provided by professor
