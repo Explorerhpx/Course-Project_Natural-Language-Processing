@@ -16,4 +16,8 @@ Generally speaking, there are 4 Homework & 1 Final Project under this reporstory
 4. Word2vec
 5. Final Project: Rumor Detection
 
+|Name|Task|Model|
+|:--:|:--:|:--:|
+||||
+
 Since the first 4 projects is related to the course homework, there is no codes provided. Put another way, only the requriment and the report are available. Howeverm, if you do need the codes, please don't hesitate to contacte me at *1336076538@qq.com*.
