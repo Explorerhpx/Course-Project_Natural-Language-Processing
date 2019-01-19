@@ -9,7 +9,8 @@ This Project is the Final Project of [DATA130006](http://www.sdspeople.fudan.edu
 ## Introduction
 ### Requirement
 * This project aims to determine if a post is rumor or not given its original content and all the comments and reposts generated;
-* Some related papers are provided as reference (you can obtain at the [*References*](## References) part). Students
+* Some related papers are provided as reference (you can obtain them at the *References* part). Students can either choose one of them to implement;
+* Two datasets from Weibo and Twitter can be found at [here](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/final-project/index.html)
 
 
 ## References
