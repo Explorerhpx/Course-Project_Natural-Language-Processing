@@ -13,7 +13,10 @@ This Project is the Final Project of [DATA130006](http://www.sdspeople.fudan.edu
 * Two datasets from Weibo and Twitter can be found at [here](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/final-project/index.html)
 
 ### Our work
-
+Baded on all the 3 papers provided by professor, we implement not one but all the 3 alternative models:
+* Dynamic SeriesTime Structure (DSTS)/SVM/LR
+* LSTM/Bi-LSTM model
+* Propagation Tree Kernel (PTK) model.
 
 
 ## References
