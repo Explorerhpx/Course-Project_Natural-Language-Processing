@@ -16,9 +16,6 @@ Generally speaking, there are 4 Homework & 1 Final Project under this reporstory
 |Project 2|Stock Market Trends Prediction|Text Classification|Naïve Bayes model|
 |Project 3| Chinese Event Extraction|Sequence Lebaling|HMM & CRF|
 |Project 4|Word2vec|Implement Word2vec|word2vec model(Skip-gram)|
-|Final Project|Rumor Detection|Rumor Detection|* Dynamic SeriesTime Structure (DSTS)/SVM/LR
-* LSTM/Bi-LSTM model
-* Propagation Tree Kernel (PTK) model.
-|
+|Final Project|Rumor Detection|Rumor Detection|Dynamic SeriesTime Structure (DSTS)\/SVM/LR\\LSTM/Bi-LSTM model\\Propagation Tree Kernel (PTK) model.|
 
 Since the first 4 projects is related to the course homework, there is no codes provided. Put another way, only the requriment and the report are available. Howeverm, if you do need the codes, please don't hesitate to contacte me at *1336076538@qq.com*.
