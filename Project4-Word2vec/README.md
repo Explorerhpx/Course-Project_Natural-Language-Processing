@@ -12,5 +12,5 @@ Students need to finish the coding part and the Assignment4
     * Sentiment analysis: use the average of all the word vectors in each sentence as its feature, train a **classifier**(e.g. softmax regression) with **gradient descent method**;
 * The Dataset is the *Stanford Sentiment Treebank(SST) dataset*, which is available at the course [website](http://www.sdspeople.fudan.edu.cn/zywei/DATA130006/index.html)
 
-## Remork
+## Remark
 Only Report and Requriment are available, however, if you do need the code, please don't hesitate to contact me at *1336076538@qq.com*
